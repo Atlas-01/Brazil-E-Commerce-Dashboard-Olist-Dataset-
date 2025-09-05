@@ -12,7 +12,7 @@ It focuses on orders, revenue, customer behavior, delivery performance, and paym
 - Payment analysis: Value by payment method
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/dashboard1.png)
 
 ## 📂 Dataset
 The dataset is from [Olist E-Commerce Dataset on Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
